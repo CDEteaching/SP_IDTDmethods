@@ -15,6 +15,7 @@ book:
   page-navigation: true
   back-to-top-navigation: true
   search: true
+  site-url: https://cdeteaching.github.io/SP_IDTDmethods/
  
   sidebar:
     search: true
