@@ -1,0 +1,29 @@
+# Preface {.unnumbered}
+
+*Version 1.0, July 2025*
+
+rationale for special courses
+
+## Learning outcomes
+
+-   can describe differences between scientific knowledge and non-scientific knowledge, and list quality criteria for scientific methods.
+
+-   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research.
+
+-   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research.
+
+**Assessment format:** essay + quiz (pass/fail)
+
+## Reading guide
+
+::: {.callout-note collapse="true"}
+### Definitions and further readings
+:::
+
+::: {.callout-tip collapse="true"}
+### Examples and reflections
+:::
+
+::: {.callout-caution collapse="true"}
+### Exercises and links to ILIAS
+:::

@@ -1,0 +1,63 @@
+---
+title: "Introduction"
+format: html
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+## Learning outcomes {.unnumbered}
+
+-   Students can explain how sustainability science approaches (mode-2 science) differ from traditional science approaches (mode-1 science)
+-   Students can explain the role of ethics in sustainability science
+
+## Sustainable development - Sustainability
+
+It is becoming increasingly evident that disciplinary approaches and disciplinary specializations are often insufficient to understand and address the complex challenges and **wicked problems** of the 21st century. **Sustainable development issues**, in particular, extend across various scientific and thematic fields. This necessitates collaboration between disparate disciplines and other stakeholders. Thus, **interdisciplinarity** and **transdisciplinarity** are considered to be essential research approaches in the field of **sustainability science**.
+
+![Mode 1 and Mode 2 science [@gibbons_etal_2010; @martens_2006].](images/mode1mode2.png){#fig-modes-science}
+
+Sustainability science can be understood as an arena where “contributions from the whole spectrum of the natural sciences, economics, and social sciences” [@martens_2006, p. 38] meet. Sustainability science distinguishes itself from “traditional” sciences, so-called **mode-1 sciences** (see @fig-modes-science), since it follows the normative ideas of sustainability.
+
+::: {.callout-note collapse="true"}
+### Sustainability Science
+
+The term **sustainability science** was officially introduced in 2001 at the "Challenges of a Changing Earth" congress in Amsterdam by the International Council for Science (ICSU), the International Geosphere-Biosphere Programme (IGBP), the International Human Dimensions Programme on Global Environmental Change (IHDP) and the World Climate Research Programme (WCRP). The following quote from Robert W. Kates captures appropriately the significance of sustainability science: “A new field of sustainability science is emerging that seeks to understand the fundamental character of interactions between nature and society. Such an understanding must encompass the interaction of global processes with the ecological and social characteristics of particular places and sectors” [@kates_etal_2001, p. 1].
+:::
+
+## Normativity
+
+As sustainable development is a normative model, it is important to distinguish between descriptive (**empirical-analytical**) research and prescriptive (**normative**) research. Descriptive statements describe the current state (“is”, e.g., vegetables contain a relatively high proportion of vitamins), while normative statements describe the ideal state (“ought”, e.g., you should eat vegetables). In everyday life, the distinction between “is” and “ought” is often not recognized, but it is crucial for science. Moreover, it is essential to recognize that individuals hold diverse perspectives, which can lead to diverging opinions regarding what is optimal or what sustainability should entail. Consequently, the concepts of "sustainability" or "sustainable development" cannot be regarded as impartial or neutral.
+
+![Distinction between empirical-analytical and normative (Own illustration).](images/emprical-analytical_normative.png){#fig-empirical-analytical_normative}
+
+::: {.callout-tip collapse="false"}
+### Get active - Dilemmas
+
+Reflect on an issue in your personal/social environment, where different persons have different ideas about how a problem should be solved or what sustainability should look like.
+:::
+
+## Ethics
+
+Because sustainability/sustainable development is per se normative, this can lead to **dilemmas** (which means problems do not have an optimal solution). When looking at wicked problems such as biodiversity loss in agricultural areas there are multiple possible approaches: (1) protecting and promoting rare and extinction-threatened species and therefore reducing food production **or** (2) focusing on species with great abundance, which might be more important to economics and food security but would neglect rare species.\
+Depending on context, background and/or beliefs, some would prefer one approach over the other.
+
+![Sustainable Development as a normative concept (Own illustration).](images/SD_normative.png){#fig-sd-normative}
+
+**Ethics** offers orientation and decision-making structures in order to find a suitable course of action in situations such as complex dilemmas. Ethics deals with the reflection and evaluation of moral actions and behaviour and is therefore the philosophical study of morals (moral norms, value judgments and institutions). There are numerous ethical approaches, two central ones of normative ethics being "teleological" and "deontological" approaches. **Teleological ethics** evaluates actions based on their goals or purposes, which are considered "good". An example of this is utilitarianism (established by Jeremy Bentham), which judges actions according to how much utility or happiness they produce. **Deontological ethics**, on the other hand, focuses on duties and evaluates actions based on their characteristics rather than their consequences. An example of this is Kant's duty-based ethics (Kantianism), which judges actions according to whether they comply with a moral rule or duty.
+
+The concept of sustainability usually has a positive connotation, but it can be viewed from different perspectives. In order to function as a **guiding principle** (in an ecological, social, and economic sense), it requires clear criteria. But what grounds can we use to define these criteria?
+
+According to @hirsch-hadorn_brun_2007, “sustainable development” should:
+
+-   fulfil *needs*...
+-   ... in a *just* way
+-   ... with a view to people living today and in the future, and
+-   taking into account the diversity of values and the limit to which nature can be used.
+
+The guiding principle of sustainable development is therefore not only the result of scientific research, but is first and foremost a normative, ethically based concept. It brings together “ethical and analytical ideas” and formulates “norms that express what is desirable and what should happen” [@renn_etal_2007, p. 39]. As a result, sustainable development is a **social process of negotiation and decision-making** – of searching, learning, and gaining experience – that is guided by ethical considerations. Accordingly, sustainability research must always be aware of its involvement in social processes of perception and evaluation.
+
+::: {.callout-note collapse="true"}
+### Hans Jonas' Ethics of Responsibility (1979)
+
+Hans Jonas' ethics of responsibility (1979) offers an important contribution to the sustainability debate by emphasizing the ethical responsibility for future generations and nature. Jonas' approach can be described as a kind of "future ethics" that aims to address the specific new challenges of action in the context of "technological civilization". The link to sustainability ethics lies in his understanding of the concept of responsibility: Jonas understands ethical responsibility as a "non-reciprocal relationship" [@jonas_1987, p. 177], the asymmetry of which is derived from the power of a moral subject over one or something else that requires care: "Responsibility is the concern for another being, recognized as a duty, which becomes 'concern' when its vulnerability is threatened" [@jonas_1987, p. 391]. Jonas' approach differs from other ethical theories in that it does not take the existence of humanity for granted and includes duties to future generations as well as to nature. Jonas argues that the first duty of future ethics is to grasp the distant effects of human action [@jonas_1987, p. 64]. In view of the uncertainty about the future effects of human action, he advocates the decision rule "in dubio pro malo" (in doubt for the bad): "\[...\] when in doubt, give ear to the worse prognosis before the better, for the stakes have become too great for the game" [@jonas_1987, p. 67]. Jonas thus develops a new categorical imperative that demands the preservation of nature and humanity and is based on the assumption of an intrinsic purposefulness of nature: "Act in such a way that the effects of your action are contractual with the permanence of genuine human life on earth", or "Act in such a way that the effects of your action are not destructive of the future possibilities of such life" [@jonas_1987, p. 36].
+:::

@@ -1,0 +1,61 @@
+---
+title: "ID/TD methods and reflection on methods"
+format: html
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+## Learning outcomes {.unnumbered}
+
+-   Students can describe typical methodological approaches of their previous scientific socialisation (e.g. the BSc degree programme)
+-   Students can discuss them critically with regard to their field of application, strengths and limitations
+
+## Introduction - Reflecting scientific socialization
+
+As students progress through their academic studies, particularly during their Bachelor of Science (BSc) degree programs of a certain discipline, they are exposed to a **scientific socialization** towards a disciplinary culture [@boden_etal_2011] whereby each discipline has a distinctive approach to defining and legitimizing their research methods [@austin_2002]. It is therefore of great importance for students to gain an understanding of their socialization and the methods they have employed during their studies. This enables them to engage in critical evaluation and application of different research methods in their respective fields. Moreover, it is essential to understand the relative merits and limitations of each approach and its potential applicability in inter- and transdisciplinary contexts.
+
+::: {.callout-tip collapse="false"}
+### Mandatory Reflection Exercise
+
+The following exercise is designed to facilitate an understanding of, discussion about, and reflection on, the methodological approaches and skills that you have acquired during your previous studies.
+
+Write a short reflective essay (approx. 500 words) that addresses the following points:
+
+-   **Description of methodological approaches**: identify and describe at least 3 key methodological approaches you encountered during your BSc program. Those approaches might be analytic, qualitative, quantitative, or mixed. Provide a brief explanation of each method, including principles and procedures involved. Potential methods might include:
+    -   Qualitative methods: interviews, focus groups, oral history, ethnography, qualitative content analysis etc.
+    -   Quantitative methods: survey and questionnaire, experiments, statistical analysis, remote sensing or GIS, etc.
+    -   Mixed Methods
+    -   Others: Your methodological background might not apply to the above-mentioned categories, such as in maths, philosophy, literature studies or arts [@pilcher_cortazzi_2024].
+-   **Field of application**: discuss the typical context or types of research where each of the described methods is applied. If possible, provide concrete examples from your previous studies.
+-   **Reflecting on strengths and weaknesses/limitations**: After describing your methods, reflect on the strengths and weaknesses/imitations of said methods. To do this, you can consult @haq_2014 [p.3-11], @choy_2014 [chapters 2.1-2.4], and/or @queiros_etal_2017. The papers may assist in acquiring a more profound comprehension of potential elements pertaining to your methodology. It is possible that the findings will differ from those proposed by the authors.
+    -   Strengths: Discuss/reflect on the main advantages of each method.
+    -   Limit/Weaknesses: Critically evaluate the potential drawbacks / challenges / limitations associated with each method.
+-   **Interdisciplinarity**: Think about how these methods might work in an interdisciplinary or even transdisciplinary field. What might be the advantages and disadvantages?
+
+**Please hand in your reflection as soon as you register for the oral exam.**
+:::
+
+## ID/TD methods
+
+At present, there is a considerable array of distinct **ID/TD methodologies**, derived from both research and practice. The objective of this section is not to present a comprehensive account of applied methods; rather, it aims to offer insights into a select number of methods. However, before we start to explore ID/TD methods, it is essential to acknowledge that a vast variety of scientific methods are used. Various scientific methods offer specific approaches to analysing the objects of investigation and are considered complementary, as they provide different approaches to description and explanation. The choice of method therefore depends heavily on the research question and the object of investigation [cf. @schirmer_2009, 129ff]. The range of scientific methods is huge, making it difficult to categorise them. @pilcher_cortazzi_2024 used semi-structured interviews with scientists to ask about their understanding of the frequently used categorisation into quantitative and qualitative research. It is important to note here that the categorisation into quantitative and qualitative methods is made particularly in the social sciences - as @pilcher_cortazzi_2024 show. In some disciplines, researchers only conduct a certain type of research and never need anything other than clear ‘quantitative’ definitions (e.g. mathematical sciences); others only conduct research that involves texts but not numbers (e.g. literary studies). Further, some researchers considered how certain aspects lie outside the ‘qualitative’ or ‘quantitative’ (e.g. the ‘theoretical’ in German studies), or they conducted research that they considered to contain no ‘knowledge’ (sculpture in the visual arts), while others conducted basic ‘conceptual’ research that they considered to be at a stage prior to any quantity or quality judgement (philosophy). Finally, some researchers considered the terms to be of little relevance to their specialisms.
+
+In many cases, the problems and issues in sustainability science require integrative, interdisciplinary and transdisciplinary approaches in addition to human and natural science methods. By definition, **interdisciplinary science**, as sustainability science is, positions itself across the disciplines. For them, translations between disciplines are important. And when **transdisciplinary approaches** enter the respective social field and thus dissolve the disciplinary institutional distance, this must also have methodological consequences: It is about more inductive approaches in which the multiplicity of positions and approaches is recognised [@berger_2010]. Collaboration in heterogeneous groups with experts and stakeholders (from science and/or practice) creates a mutual learning and research process, as all those involved can contribute their specific experience, knowledge and disciplinary methods to the project. In this way, existing methods are sometimes recombined and reimplemented.
+
+**Interdisciplinary and transdisciplinary methods are characterised by the fact that they support the integration of different knowledge and enable co-creative processes for the development of sustainability contributions.**
+
+::: {.callout-note collapse="true"}
+### Exploring methods
+
+Due to the wide variety of applied ID/TD methods, we won’t be able to demonstrate everything in our study programme. Therefore, you can also explore some ID/TD methods yourself:
+
+1.  [**Explore the td-net Toolbox**](https://naturalsciences.ch/co-producing-knowledge-explained/methods/td-net_toolbox) and read through the presented methods. We recommend reading the tools “actor constellation”, “three types of knowledge tool”, and “Theory of Change”. Feel free to read through further methods/tools.
+2.  We recommend to **read the chapters** “Citizen Science” and “Indigenous Knowledge” from the “Handbook Transdisciplinary Learning” [@philipp_schmohl_2023]. You can [download the full book-pdf](https://www.degruyter.com/document/doi/10.1515/9783839463475/html?lang=en).
+:::
+
+::: {.callout-note collapse="true"}
+### Further Reading
+
+@creswell_2013
+
+@kagan_2009
+:::

@@ -1,0 +1,87 @@
+---
+title: "Scientific knowledge and non-scientific knowledge"
+format: html
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+## Learning outcomes {.unnumbered}
+
+-   Students can describe differences between scientific knowledge and non-scientific knowledge
+-   Students can list quality criteria for scientific methods
+
+## Introduction
+
+How can scientific knowledge be differentiated from non-scientific knowledge, such as for example, everyday knowledge, that we acquire and apply day by day? Especially in times of “fake news”, the “post-truth area” and a “knowledge crisis” [@hopf_etal_2019], this question is more crucial than ever. Because, depending on the discipline, in which they have been trained, different scientists might answer this question slightly differently. In our understanding, we follow the definitions of @bhattacherjee_etal_2019 in their introduction to social science research:
+
+-   “**Science** refers to a systematic and organised body of knowledge in any area of inquiry that acquired using ‘the scientific method’". (p.5). "The purpose of science is to create scientific knowledge.” (p. 6).
+-   “**Scientific knowledge** refers to a generalised body of laws and theories for explaining a phenomenon or behaviour of interest that is acquired using the scientific method. Laws are observed patterns of phenomena or behaviours, while theories are systematic explanations of the underlying phenomenon or behaviour.” (p.6). “The goal of scientific research is to discover laws and postulate theories that can explain natural or social phenomena, or in other words, build scientific knowledge. It is important to understand that this knowledge may be imperfect or even quite far from the truth. Sometimes, there may not be a single universal truth, but rather an equilibrium of ‘multiple truths.’ We must understand that the theories upon which scientific knowledge is based are only explanations of a particular phenomenon as suggested by a scientist. As such, there may be good or poor explanations depending on the extent to which those explanations fit well with reality, and consequently, there may be good or poor theories. The progress of science is marked by our progression over time from poorer theories to better theories, through better observations using more accurate instruments and more informed logical reasoning.” (p.7). “We arrive at scientific laws or theories through a process of logic and evidence. Logic (theory) and evidence (observations) are the two, and only two, pillars upon which scientific knowledge is based.” (p.7)
+-   “**Scientific method** refers to a standardised set of techniques for building scientific knowledge, such as how to make valid observations, how to interpret results, and how to generalise those results. The scientific method allows researchers to independently and impartially test pre-existing theories and prior findings, and subject them to open debate, modifications, or enhancements.” (p.9)
+
+Thus, it can be said, that scientific knowledge is the product of a research process, in which scientific methods are applied.
+
+|   | Everyday knowledge | Scientific knowledge |
+|:---|:---|:---|
+| **Formation** | Through experience | Based on scientific methods, i.e., verifiability / falsifiability of studies, transparent result |
+| **Objectivity** | Direct link between knowledge and person (subjectively influenced) | Separation of knowledge and person (intersubjectivity) |
+| **Dissemination / Communication** | Everyday language, routines, publications in newspapers etc. | Scientific language, Publication as textbooks, articles in peer-reviewed academic journals |
+
+: Distinctions between scientific and everyday knowledge. {#tbl-sci-everyday-knowl}
+
+## Quality criteria of scientific methods
+
+The question of how scientific knowledge was generated (i.e., which methods were used) is therefore crucial to the differentiation of scientific knowledge from non-scientific knowledge. Different **quality criteria** have been established both between different disciplines and within schools of thought within disciplines, which are used to evaluate the scientific methods used. In other words, here too, different disciplines have divergent understandings of what is considered a "good" scientific method, and thus the knowledge produced is also considered valid. Here are some examples (this is not an exhaustive list):
+
+-   **Natural Sciences**: Empirical Evidence, Falsifiability (Popper, 2002), Reproducibility (Mayo, 1996), Objectivity (Chalmers, 1999).
+-   **Quantitative Social Sciences**: Replicablity, Precision, Falsifiability, Parsimony (Bhattacherjee, et al., 2019), Transparency and Reproduciability (Hardwicke et al., 2020).
+-   **Qualitative Social Sciences**: Credibility, Transferability, Dependability and Comfortability (Yadav, 2022).
+-   **Humanities**: Interpretative Depth (Ricoeu, 1981), Coherence (Gadamer, 2004), Historical Contextualization (Skinner, 2002), Ciritcal Engagement (Eagleton, 2008).
+-   **Philosophy**: Consistency, Coherence, and Correspondence (Reichling, 1996), Argumentative Rigor (Russell, 1912).
+-   **Law**: Legal Precedent (Dworkin, 1977), Argumentation & Reasoning (Fuller, 1969), Doctrinal Accuracy (Posner, 203), Normative Clarity (Habermas, 1996)
+
+## Quality criteria of trandisciplinary research
+
+Sustainability sciences often follow [**transdisciplinary**](5_IDTD.qmd) research designs. @belcher_etal_2016 describe transdisciplinary research as crossing disciplinary and institutional boundaries, and as being context specific, and problem oriented. Moreover, it combines and blends methodologies from different theoretical paradigms, includes a diversity of both academic and societal actors, and is conducted with a range of research goals, organizational forms, and outputs. It is widely acknowledged that complex and wicked social problems, as those who are the research topics of sustainability sciences, as well as the claim to contribute to reals world solutions, are best approaches by such comprehensive and holistic approaches such as provided by transdisciplinary research designs. However, as boundaries between disciplines are crossed, and as research engages more with stakeholders in complex systems, traditional academic definitions and criteria of research quality are no longer sufficient—there is a need for a parallel evolution of principles and criteria to define and evaluate research quality in a transdisciplinary research context. This is, why @belcher_etal_2016 propose, based on a comprehensive literature review, the following four quality criteria for transdisciplinary research [cp. Table 3 in @belcher_etal_2016]:
+
+-   **Relevance**: The importance, significance, and usefulness of the research problem, objectives, processes, and findings to the problem context
+-   **Credibility**: The research findings are robust and the sources of knowledge are dependable. This includes clear demonstration of the adequacy of the data and the methods used to procure the data including clearly presented and logical interpretation of findings
+-   **Legitimacy**: The research process is perceived as fair and ethical. This encompasses the ethical and fair representation of all involved and the appropriate and genuine inclusion and consideration of diverse participants, values, interests, and perspectives
+-   **Effectiveness**: The research generates knowledge and stimulates actions that address the problem and contribute to solutions and innovation
+
+The quality of transdisciplinary knowledge production therefore does not follow any rigid quality criteria of disciplinary research paradigms. Rather, various methodological approaches are combined, depending on the best fit with the desired research objectives and questions, with regard to the inclusion of all participants, and with regard to implementation and solution-orientation. The selected research approaches are implemented in such a way as to maximise credibility. Following @belcher_etal_2016, **credible high-quality research is authoritative, transparent, defensible, believable, and rigorous**. For this, traditional disciplinary criteria can be applied to transdisciplinary research. However, additional and modified criteria are needed to address the integration of epistemologies and methodologies and the development of novel methods through collaboration, the broad preparation and competencies required to carry out the research, and the need for reflection and adaptation when operating in complex systems.
+
+For scientists who engage in or evaluate transdisciplinary research, this means that they should be open to and tolerant of different scientific methods and corresponding comprehensive set of quality criteria.
+
+Moreover, @walter_kremer_2023 [p. 340] argue that within transdisciplinary learning contexts, the different **cultures of knowledge** provide the potential for a more **holistic reflection**, and therefore more comprehensive understanding. Persons who intend to collaborate in a transdisciplinary research project or educational task should reflect on and communicate their sources of knowledge, its reliability, and limitations. Conscious discussion may enhance mutual understanding for different approaches, documentation, and methodologies in scientific knowledge acquisition and therefore may prevent possible misconceptions. In addition, this reflection may help to identify common points of contact and complementary additions to the various disciplinary levels of knowledge, thereby enhancing **mutual learning**.
+
+## Assessing the quality of scientific publications
+
+However, the methodological openness and diversity of transdisciplinary research does not mean that “everything” is possible and permitted. Rather, the transparent disclosure of sources and decisions made, the quality of the underlying data and the comprehensibility of interpretations are central to gaining confidence in the **quality of the knowledge** gained. In view of the possibilities created by intelligent systems (e.g., AI) in the production of knowledge, many researchers are also tempted to resort to questionable methods in the production of knowledge [see examples in @luscher_2019]. So, how can you recognise whether a scientific publication (especially if it does not originate from your own discipline) is of high quality?\
+We suggest the following questions that can be asked of a publication in order to assess its quality:
+
+**What is the quality of the content?**
+
+-   The aformentioned quality criteria can be applied here
+
+**Who is/are the author(s)?**
+
+-   Is/are the author(s) writing about a topic on which they are also conducting research (or are they commenting on topics that do not correspond to their primary research)?
+-   Does the author(s) have a reputation in this field?
+-   Might there be any conflicts of interest?
+
+**Who is the publisher?**
+
+-   Does the publisher specialise in scientific publications in the relevant subject area?
+-   What is the reputation of the publisher (see [list of predatory publishers](https://www.predatoryjournals.org/the-list){target="_blank"})?
+-   Might there be any conflicts of interest?
+
+**Who is the target audience?**
+
+-   Was the publication written for a scientific audience (or is it, for example, a textbook for students or a specialist article for a non-scientific audience)?
+
+**How was the publication received in the scientific community?**
+
+-   Has the publication been cited by others (cp. citation indices)?
+-   Are there any reviews?
+
+Please note that **there is no simple yes-no answer** regarding the quality of publications. Rather, this is determined gradually on the basis of multi-dimensional considerations.

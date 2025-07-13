@@ -1,0 +1,82 @@
+---
+title: "Integrity and Ethics"
+format: html
+tbl-cap-location: top
+fig-cap-location: bottom
+---
+
+## Learning outcomes {.unnumbered}
+
+-   Students can describe basic principles of good and responsible research ethics and scientific integrity
+-   Students are aware about the implications for conducting good and ethical responsible research
+
+## Introduction
+
+Scientific or research **integrity** refers to the requirement that researchers to conduct research in accordance with appropriate ethical, legal, and professional frameworks, obligations, and standards. This relates to several levels of **accountability**, including those of individual researchers, their institutions, (potential) clients, the government, and the general public. Only a high level of integrity allows to maintain society’s trust in research, to protect the reputation of researchers and institutions, to ensure the reproducibility of research results, and to prevent fraud and misconduct [@alavi_schmol_2023].
+
+Good scientific practice and scientific integrity adheres to **legal regulations** (e.g. [New Federal Act on Data Protection](https://www.kmu.admin.ch/kmu/en/home/facts-and-trends/digitization/data-protection/new-federal-act-on-data-protection-nfadp.html){target="_blank"}), as well as **principles and codes of conduct on research ethics and scientific integrity of the scientific academies** (e.g. [The European Code of Conduct for Research Integrity of All European Academies](https://www.alleageneralassembly.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf){target="_blank"}, or the [Code of conduct for scientific integrity of the Swiss Academies](https://api.swiss-academies.ch/site/assets/files/25607/kodex_layout_en_web-1.pdf){target="_blank"}). Various **scientific communities and academic fields** also specify further codes and principles ( e.g., the [Guide for Transboundary Research Partnerships of the Swiss Alliance for Global Research Partnerships](https://globalresearch.scnat.ch/en/publications/uuid/i/13beb0f7-4780-5967-a257-bd6cc3d5e424-A_Guide_for_Transboundary_Research_Partnerships_3rd_edition_-_2018){target="_blank"}, the [Ethical Principles of Psychologists and Code of Conduct of the American Psychology Association](https://www.apa.org/ethics/code){target="_blank"}, or the [Code of Ethics of the International Sociological Association](https://www.isa-sociology.org/en/about-isa/code-of-ethics){target="_blank"}).
+
+For **international and interdisciplinary researchers**, this means that they must actively inform themselves about the applicable laws in the countries in which they conduct their research, as well as the applicable principles and codes of conduct of their (disciplinary) research communities.
+
+In our view, the following principles are particularly important for students on the Master's programme on Sustainability Transformations.
+
+## Basic principles
+
+Based on recommendations of All European Academies (ALLEA), the Swiss Academies have formulated **four basic principles** of scientific integrity [@swiss_academies_of_arts_and_sciences_2021, p. 15]:
+
+1.  **Reliability** in ensuring the quality of research and teaching in order to maximise the credibility of, and trust in, science. Reliability is reflected in particular in the design, methodology, and analysis of research; it involves both transparency and traceability.
+2.  **Honesty** in developing, designing, undertaking, reviewing, reporting and communicating research and teaching activities. These activities should be carried out in a transparent manner with a view to achieving maximum impartiality.
+3.  **Respect** for colleagues, students, study and research participants, society, our cultural heritage, ecosystems and the environment. Due consideration should be given to the diversity and life experience of all persons involved.
+4.  **Accountability** for research – from an idea to its valorisation and transfer – and for its administration and organisation as well as for training, supervision, mentoring, and the careful use of resources.
+
+Moreover, the EU specified in its [European Charter for Researchers](https://euraxess.ec.europa.eu/hrexcellenceaward/european-charter-researchers){target="_blank"} a set of general principles and requirements which specifies the roles, responsibilities and entitlements of researchers. They are aimed at all researchers at all stages of their careers and cover all areas of research in the public and private sectors. The Charter formulates the following requirements for researchers:
+
+| Research freedom | Professional attitude | Good practice in research | Relation with supervisors |
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| Ethical principles | Contractual and legal obligations | Dissemination, exploitation of results | Supervision and managerial duties |
+| Professional responsibility | Accountability | Public engagement | Continuing professional development |
+
+: General principles and requirements for researchers (based on the EU Charter for Researchers). {#tbl-EU-charter-researchers}
+
+## Good research practices
+
+From these basic principles, more concrete **implications for good scientific practices** can be derived, for example [for more details cp. @swiss_academies_of_arts_and_sciences_2021]:
+
+### In the production and dissemination of knowledge {collapse="true"}
+
+-   Responsible data management is required when handling the data. This ensures security and longevity of data, as well as reproducibility of research results. On the one hand, the procedures follow the requirements of data protection guidelines and data management plans, on the other hand, they are oriented on Open Science Guidelines.
+-   When producing knowledge, it is important to disclosure apparent, potential, and actual conflicts of interests. It is also required to respect intellectual property, and to explicitly and correctly refer to existing knowledge and literature (cp.)
+-   It also means to use AI in research responsibly and make their use transparent (cp.) It goes without saying that due diligence is required when collecting and analysing data and no practices that contravene scientific integrity are used (such as e.g. data fabrication, cf. also the [regulations concerning scientific integrity of the University of Bern, Article 5](https://www.unibe.ch/unibe/portal/content/e152701/e322683/e325102/e1060301/senat_rgl_scientific_integrity_ger.pdf){target="_blank"}).
+
+### In the collaboration with colleagues {collapse="true"}
+
+-   Good practice in this regard includes, for example, naming all persons who have made a significant contribution to the planning, realisation and quality as authors.
+-   Peer review procedures are an important quality assurance mechanism in science. Researchers should also make their contribution here and provide appropriate feedback with a commitment to objectivity, impartiality, and confidentiality.
+
+### When involving human participangs in data collection[^1] {collapse="true"}
+
+[^1]: Other rules and ethical guidelines arise when animals are involved; these would have to be consulted in a corresponding case. We do not comment on this in the present document, as to our knowledge this is rarely the case in transdisciplinary sustainability research.
+
+-   When data is collected from human participants (mostly in humanities and social sciences, as well as in transdisciplinary research, e.g. through observations or surveys, but also on social media), it is essential to comply with the applicable data protection laws. Both the European Data Protection Act and the new Federal Act on Data Protection stipulate corresponding requirements.
+-   The different (disciplinary) research communities often go one step further in their research ethics guidelines (e.g. the [Ethics in Social Science and Humanities for the European Commission](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-in-social-science-and-humanities_he_en.pdf){target="_blank"}). These place the dignity and well-being of the participants at the center, particularly, if vulnerable groups are involved. Most of these research ethical guidelines are based on the [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html){target="_blank"} of the National Commission for the protection of Human Subjects of biomedical and behavioural Research of the United States. The Belmont Report defines three basic ethical principles:
+    1.  **Respect for Persons** expresses the ethical convictions that the autonomy of individuals should be respected and that persons with diminished autonomy are entitled to equal protection.\
+        ➔ This results, for example, in the requirements of **voluntariness, confidentiality/anonymity, and informed consent**.
+    2.  **Beneficence** describes an obligation to protect subjects from harm by maximizing possible benefits and minimizing possible harms. ➔ Participants **must not suffer any impairments or disadvantages as a result of their participation** (e.g. no negative emotions). If this is the case, such burdens must be justified by the benefits of the research. An ethics committee should decide whether this is the case.
+    3.  **Justice** promotes equitable representation in research in terms of fairly distributing the risks and benefits of research. ➔ The groups of people involved must not suffer any disadvantages as a result of their participation (e.g. refusal of treatment if they are assigned to the control group).
+
+## Outlook and further literature
+
+-   You will gain in-depth knowledge about fairness, ethics in fieldwork, conflict sensitivity, etc. in the seminar «Be fair, contextually aware, and conflict-sensitive in inter-cultural and inter-contextual collaborations: key competences for sustainability transformations» (Autum Term). The seminar will expand and complement the basic principles presented .
+-   If you are planning to involve human beings in data collection in student projects, a future learning expedition will provide you with details on the correct procedure. Please consult this expedition and / or @ahsan_ullah_2022 before you start collecting data.
+
+::: {.callout-note collapse="true"}
+### Dive deeper into the topic
+
+-   Watch this [introductory learning video on Research Ethics](https://www.youtube.com/watch?v=mtLPd2u4DiA){target="_blank"}.
+-   Consult the [Recommendations of the University of Bern on Research Compliance and Good Research Practice](https://www.unibe.ch/research/compliance_and_grp/index_eng.html){target="_blank"}.
+-   Learn more about [what the New Federal Act on Data Protection means for Open Access practices](https://rec.unil.ch/permalink/v12666129a6dcphfexd5/){target="_blank"} in this Webinar.
+-   Learn more about the [background and content of the Belmont Principles](https://www.youtube.com/watch?v=qv0CC6oT-7E&t=238s){target="_blank"} in this webinar.
+-   Explore the [Toolbox for Research Integrity of the SOPs4RI project](https://sops4ri.eu/toolbox/){target="_blank"}.
+-   Explore the [platform for research integrity and ethics of the EnTIRE and VRT2UE projects](https://embassy.science/wiki/Main_Page){target="_blank"}.
+-   Complete the [online course on «Research Integrity»](https://www.unibe.ch/research/compliance_and_grp/research_integrity_online_course/index_eng.html){target="_blank"} of the University of Bern.
+:::
