@@ -20,9 +20,10 @@ book:
   sidebar:
     search: true
     logo: images/cdelogo_e.png
-    downloads: 
-      - text: "Download PDF"
+    tools:
+      - icon: file-earmark-pdf
         href: https://cdeteaching.github.io/SP_IDTDmethods/pdf/SP_IDTD.pdf
+        text: "Course Script (PDF)"
     
   page-footer:
     border: true
@@ -54,9 +55,9 @@ format:
     monofont: Fira Code
     highlight-style: arrow
     monobackgroundcolor: "#F7F7F7"
-    theme: 
-      - theme.css
-      - theme.scss
+    #theme: 
+    #  - theme.css
+    #  - theme.scss
   
   pdf:
   # render pdf to separate folder -> do it manually via terminal

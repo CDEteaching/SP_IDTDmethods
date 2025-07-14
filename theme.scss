@@ -55,11 +55,8 @@ $toc-active-background: #EEECEA!default;
   padding-left: 15px;
 }
 
-// data in this book
-// download buttons
-#download-button {
-  border-width: 1.5px 1.5px 1.5px 1.5px;
-  background-color: #efc078;
-  color: #fff;
-  border-color: #003A70;
+.sidebar-item .bi-file-earmark-pdf + span {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #555;
 }

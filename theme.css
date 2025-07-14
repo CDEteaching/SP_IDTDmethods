@@ -118,3 +118,20 @@ a {
   border-bottom-right-radius: 10px;
 }
 
+.sidebar-subtitle {
+  font-size: 0.9rem;
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
+  color: #444;
+  font-style: italic;
+}
+
+.sidebar-subtitle a {
+  color: #005691;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sidebar-subtitle a:hover {
+  text-decoration: underline;
+}
