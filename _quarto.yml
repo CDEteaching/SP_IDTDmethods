@@ -20,7 +20,9 @@ book:
   sidebar:
     search: true
     logo: images/cdelogo_e.png
-    downloads: [pdf]
+    downloads: 
+      - text: "Download PDF"
+        href: https://cdeteaching.github.io/SP_IDTDmethods/pdf/SP_IDTD.pdf
     
   page-footer:
     border: true
@@ -48,7 +50,6 @@ bibliography: references.bib
 
 format:
   html:
-    output-dir: docs
     mainfont: Roboto
     monofont: Fira Code
     highlight-style: arrow
@@ -58,7 +59,8 @@ format:
       - theme.scss
   
   pdf:
-    output-dir: book
+  # render pdf to separate folder -> do it manually via terminal
+  # "quarto render --to pdf --output SP_IDTD.pdf --output-dir pdf"
     documentclass: book
     mainfont: "Times New Roman"
     sansfont: "Arial"
@@ -68,8 +70,7 @@ format:
     papersize: a4
     fig-pos: "H"
     classoption: openany
-    pdfengine: xelatex
-    output-file: book
+    pdf-engine: xelatex
     metadata:
       title: "book"
     
