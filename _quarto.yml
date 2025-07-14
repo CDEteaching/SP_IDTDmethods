@@ -42,10 +42,7 @@ book:
   - 4_integrityEthics.qmd
   - 5_IDTD.qmd
   - 6_methodsReflection.qmd
-    
-    
-  appendices:
-    - references.qmd
+  - references.qmd
 
 bibliography: references.bib
 
