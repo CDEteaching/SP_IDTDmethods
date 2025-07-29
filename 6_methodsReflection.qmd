@@ -5,10 +5,16 @@ tbl-cap-location: top
 fig-cap-location: bottom
 ---
 
-## Learning outcomes {.unnumbered}
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
 
+::: learning-body
 -   Students can describe typical methodological approaches of their previous scientific socialisation (e.g. the BSc degree programme)
 -   Students can discuss them critically with regard to their field of application, strengths and limitations
+:::
+:::::
 
 ## Introduction - Reflecting scientific socialization
 
@@ -27,12 +33,12 @@ Write a short reflective essay (approx. 500 words) that addresses the following 
     -   Mixed Methods
     -   Others: Your methodological background might not apply to the above-mentioned categories, such as in maths, philosophy, literature studies or arts [@pilcher_cortazzi_2024].
 -   **Field of application**: discuss the typical context or types of research where each of the described methods is applied. If possible, provide concrete examples from your previous studies.
--   **Reflecting on strengths and weaknesses/limitations**: After describing your methods, reflect on the strengths and weaknesses/imitations of said methods. To do this, you can consult @haq_2014 [p.3-11], @choy_2014 [chapters 2.1-2.4], and/or @queiros_etal_2017. The papers may assist in acquiring a more profound comprehension of potential elements pertaining to your methodology. It is possible that the findings will differ from those proposed by the authors.
+-   **Reflecting on strengths and weaknesses/limitations**: After describing your methods, reflect on the strengths and weaknesses/imitations of said methods. To do this, you can consult @haq_2014 \[p.3-11\], @choy_2014 [chapters 2.1-2.4], and/or @queiros_etal_2017. The papers may assist in acquiring a more profound comprehension of potential elements pertaining to your methodology. It is possible that the findings will differ from those proposed by the authors.
     -   Strengths: Discuss/reflect on the main advantages of each method.
     -   Limit/Weaknesses: Critically evaluate the potential drawbacks / challenges / limitations associated with each method.
 -   **Interdisciplinarity**: Think about how these methods might work in an interdisciplinary or even transdisciplinary field. What might be the advantages and disadvantages?
 
-**Please hand in your reflection as soon as you register for the oral exam.**
+**Please hand in your reflection as soon as you completed the first attempt of the online exam.**
 :::
 
 ## ID/TD methods
@@ -55,7 +61,7 @@ Due to the wide variety of applied ID/TD methods, we won’t be able to demonstr
 ::: {.callout-note collapse="true"}
 ### Further Reading
 
-@creswell_2013
+The textbook *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* by @creswell_creswell_2018 is a valuable resource with instructions for designing research projects or developing research proposals. It offers guidance in every step of the process, from the literature review to the study design.
 
-@kagan_2009
+*The Three Cultures: Natural Sciences, Social Sciences, and the Humanities in the 21st Century* by @kagan_2009 describes the differences of these three academic cultures in their assumptions, vocabulary, and contributions.
 :::

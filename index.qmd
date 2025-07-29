@@ -2,19 +2,31 @@
 
 *Version 1.0, July 2025*
 
-rationale for special courses
+In this online course, you will explore the foundations of inter- and transdisciplinary (ID/TD) methods, essential for addressing complex societal challenges. The course introduces the distinction between scientific and non-scientific knowledge and the criteria used to evaluate scientific methods. You will also delve into the principles of good and responsible research, including the ethical standards and integrity required for conducting high-quality research. Across eight units, you will gain practical skills in searching, managing, and analyzing scientific literature and synthesizing it into coherent written texts. The units cover topics such as scientific and non-scientific knowledge, three types of knowledge, transparent referencing, research ethics, and ID/TD methods. By completing this course, you will develop a solid understanding of the core principles of scientific inquiry, along with the practical tools necessary for conducting ethical and responsible research.
 
-## Learning outcomes
+The completion of this course is recognized with 1.5 ECTS credits and therefore requires a workload equivalent to approximately 45 hours of study (online course and preparation of assessment).
 
--   can describe differences between scientific knowledge and non-scientific knowledge, and list quality criteria for scientific methods.
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
 
--   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research.
+::: learning-body
+-   can describe differences between scientific knowledge and non-scientific knowledge, and list quality criteria for scientific methods
 
--   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research.
+-   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research
 
-**Assessment format:** essay + quiz (pass/fail)
+-   can describe basic principles of good and responsible research ethics and scientific integrity, and they are aware about the implications for conducting good and ethical responsible research
+:::
+:::::
 
-## Reading guide
+**Procedure**
+
+Complete the online course at your own pace. Once you feel prepared, you can complete the [**online exam**](https://ilias.unibe.ch/goto_ilias3_unibe_tst_3450716.html){target="_blank"} and submit the **mandatory reflection exercise** (see chapter *ID/TD methods and reflection on methods*). You have two attempts for the online exam and the time available per attempt is limited to 30 minutes.
+
+Please note that the online exam must be completed **by 30. May 2026 at the latest**.
+
+**Reading guide**
 
 ::: {.callout-note collapse="true"}
 ### Definitions and further readings

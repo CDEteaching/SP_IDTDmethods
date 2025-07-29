@@ -55,9 +55,10 @@ format:
     monofont: Fira Code
     highlight-style: arrow
     monobackgroundcolor: "#F7F7F7"
-    #theme: 
+    theme: 
     #  - theme.css
-    #  - theme.scss
+      - theme.scss
+    callout-icon: false
   
   pdf:
   # render pdf to separate folder -> do it manually via terminal
@@ -74,6 +75,8 @@ format:
     pdf-engine: xelatex
     metadata:
       title: "book"
+    callout-icon: false  
+    
     
 
 editor: visual

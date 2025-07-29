@@ -5,9 +5,15 @@ tbl-cap-location: top
 fig-cap-location: bottom
 ---
 
-## Learning outcomes {.unnumbered}
+::::: learning
+::: learning-header
+**Learning Outcome**
+:::
 
+::: learning-body
 -   Students can explain the concepts of multidisciplinary, interdisciplinary (ID), and transdisciplinary (TD) approaches, and describe the differences between these terms
+:::
+:::::
 
 ## Explain Inter- and Transdisciplinarity
 
@@ -26,7 +32,7 @@ In 2019, the Oberland-Ost Regional Conference set itself the strategic developme
 
 This process was initiated, accompanied and researched by an inter- and transdisciplinary team of CDE researchers from the disciplines of psychology, geography and communication sciences together with representatives of regional authorities. CDE researchers were responsible for identifying and involving key regional stakeholders, as well as facilitating a series of workshops to develop the transition agenda. In addition, a survey was conducted among the local population to find out whether they supported the vision developed by the regional representatives. The results of the survey were then incorporated into the strategy process.
 
-![Visions of a climate neutral region Oberland-Ost (illustration by Samuel Bucheli).](images/Poster_%20Klimaneutrale_Region%20Oberland-Ost.png){#fig-klimaneutral-berneroberland}
+![Visions of a climate neutral region Oberland-Ost (illustration by Samuel Bucheli).](images/Poster_Klimaneutrale_Region%20Oberland-Ost.png){#fig-klimaneutral-berneroberland}
 
 The project was funded by the Swiss Federal Office of Energy SFOE (Energy Research and Cleantech Section) and co-financed by the Wyss Academy for Nature at the University of Bern and the Economic, Energy and Environmental Directorate of the Canton of Bern.
 
@@ -43,17 +49,11 @@ For each definition select the **correct term**.
 
 <p>A specific branch of knowledge or field of study that follows a distinct set of theories, methods, and principles.</p>
 
-<select id="quiz-question-1" onchange="checkAnswer1()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-1" onchange="checkAnswer1()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
+<p id="quiz-feedback-1" style="font-weight: bold;">
 
-<p id="quiz-feedback-1" style="font-weight: bold;"></p>
+</p>
 
 ```{=html}
 <script>
@@ -74,22 +74,17 @@ For each definition select the **correct term**.
 </script>
 ```
 
----
+------------------------------------------------------------------------
 
 <!-- Question 2 -->
 
 <p>Uses methods and concepts from one field of study to address questions or problems in another. It seeks to draw parallels and find applications across different areas of knowledge.</p>
 
-<select id="quiz-question-2" onchange="checkAnswer2()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-2" onchange="checkAnswer2()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
-<p id="quiz-feedback-2" style="font-weight: bold;"></p>
+<p id="quiz-feedback-2" style="font-weight: bold;">
+
+</p>
 
 ```{=html}
 <script>
@@ -110,22 +105,17 @@ For each definition select the **correct term**.
 </script>
 ```
 
----
+------------------------------------------------------------------------
 
 <!-- Question 3 -->
 
 <p>The integration and collaboration of multiple fields of study to address a common research question or problem. It aims to create new insights and understandings that transcend the boundaries of individual areas of expertise.</p>
 
-<select id="quiz-question-3" onchange="checkAnswer3()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-3" onchange="checkAnswer3()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
-<p id="quiz-feedback-3" style="font-weight: bold;"></p>
+<p id="quiz-feedback-3" style="font-weight: bold;">
+
+</p>
 
 ```{=html}
 <script>
@@ -146,22 +136,17 @@ For each definition select the **correct term**.
 </script>
 ```
 
----
+------------------------------------------------------------------------
 
 <!-- Question 4 -->
 
 <p>Involves a collaborative process that integrates academic and non-academic knowledge to address complex, real-world problems. It goes beyond traditional fields of study, incorporating perspectives from stakeholders, practitioners, and community members.</p>
 
-<select id="quiz-question-4" onchange="checkAnswer4()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-4" onchange="checkAnswer4()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
-<p id="quiz-feedback-4" style="font-weight: bold;"></p>
+<p id="quiz-feedback-4" style="font-weight: bold;">
+
+</p>
 
 ```{=html}
 <script>
@@ -182,22 +167,17 @@ For each definition select the **correct term**.
 </script>
 ```
 
----
+------------------------------------------------------------------------
 
 <!-- Question 5 -->
 
 <p>Research or inquiry conducted within a single field of study, focusing on deepening knowledge and understanding of a specific subject area. It relies solely on the concepts, theories, and methods specific to that field.</p>
 
-<select id="quiz-question-5" onchange="checkAnswer5()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-5" onchange="checkAnswer5()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
-<p id="quiz-feedback-5" style="font-weight: bold;"></p>
+<p id="quiz-feedback-5" style="font-weight: bold;">
+
+</p>
 
 ```{=html}
 <script>
@@ -218,22 +198,17 @@ For each definition select the **correct term**.
 </script>
 ```
 
----
+------------------------------------------------------------------------
 
 <!-- Question 6 -->
 
 <p>Involves several fields of study working alongside each other on a common topic, but without necessarily integrating their perspectives or methods. Each area maintains its own methodologies and standards while contributing to a broader understanding of the issue.</p>
 
-<select id="quiz-question-6" onchange="checkAnswer6()">
-  <option value="">-- Choose an answer --</option> 
-  <option value="Discipline">Discipline</option> 
-  <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> 
-  <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> 
-  <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> 
-  <option value="Multidisciplinary">Multidisciplinary</option> 
-  <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
+<select id="quiz-question-6" onchange="checkAnswer6()"> <option value="">-- Choose an answer --</option> <option value="Discipline">Discipline</option> <option value="Interdisciplinary (ID)">Interdisciplinary (ID)</option> <option value="Intra/monodisciplinary">Intra/monodisciplinary</option> <option value="Transdisciplinary (TD)">Transdisciplinary (TD)</option> <option value="Multidisciplinary">Multidisciplinary</option> <option value="Crossdisciplinary">Crossdisciplinary</option> </select>
 
-<p id="quiz-feedback-6" style="font-weight: bold;"></p>
+<p id="quiz-feedback-6" style="font-weight: bold;">
+
+</p>
 
 ```{=html}
 <script>
@@ -253,5 +228,4 @@ For each definition select the **correct term**.
   }
 </script>
 ```
-
 :::

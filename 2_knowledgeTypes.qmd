@@ -1,19 +1,23 @@
 ---
 title: "Three types of knowledge"
-format: 
-  html: default 
-  pdf: default
+format: html 
 tbl-cap-location: top
 fig-cap-location: bottom
 ---
 
-## Learning outcome {.unnumbered}
+::::: learning
+::: learning-header
+**Learning Outcome**
+:::
 
+::: learning-body
 -   Students can explain the concepts of systems knowledge, target knowledge, and transformation knowledge within the context of sustainable development
+:::
+:::::
 
 ## Three types of Knowledge
 
-![The three forms of knowledge in empirical-analytical and normative sustainability science [illustrated by Christoph Bader, based on @proclim_1997].](images/Three-Knowledge-Types.png){#fig-three-knowledge}
+![The three forms of knowledge in empirical-analytical and normative sustainability science [Own illustration based on @proclim_1997].](images/Three-Knowledge-Types.jpg){#fig-three-knowledge}
 
 **Systems knowledge** is defined as the comprehension of the existing state of a system, encompassing the investigation of pertinent structures and processes, as well as their intricacy and dynamics within the framework of sustainable development. This is accomplished through a variety of methods, including qualitative and quantitative approaches, mixed methods, experiments, and system dynamics approaches, which frequently incorporate forecasts, retrospectives, and scenario analyses. The majority of studies on the generation of systems knowledge are classified as empirical research (@fig-three-knowledge).
 
@@ -21,7 +25,7 @@ fig-cap-location: bottom
 
 **Transformation knowledge** is the process of moving from the current state to the desired state, achieved through the integration of both system and target knowledge. This entails the pursuit of demonstrably effective solutions to identified problems within the context of sustainable development. There are a number of methods that can be employed to achieve this. (translated from Ilias and enhanced with deepl) Research on transformations, i.e. the change in social organisation at different levels, can be both empirical and normative. Research focussing on past and present transformations is empirical. In contrast, research focussing on how concrete goals can be achieved is normative. This distinction is also acknowledged by the German Advisory Council on Global Change (WBGU), which employs the terms "transformation" or "transformative research." In the context of transformations, transformative education is emphasised, which aims to promote the acquisition of skills for a comprehensive and multi-layered understanding of change [@schneidewind_2013]. The objective is to enhance the capacity for reflection within society, encompassing both the terms and ability of observing and actively shaping transformation processes (@fig-three-knowledge).
 
-::: {.callout-caution collapse="false"}
+::: {.callout-caution collapse="false" icon="false"}
 ## Activity: Video
 
 Watch the video below

@@ -5,18 +5,32 @@ tbl-cap-location: top
 fig-cap-location: bottom
 ---
 
-## Learning outcomes {.unnumbered}
+::::: learning
+::: learning-header
+**Learning Outcomes**
+:::
 
+::: learning-body
 -   Students can explain how sustainability science approaches (mode-2 science) differ from traditional science approaches (mode-1 science)
 -   Students can explain the role of ethics in sustainability science
+:::
+:::::
 
 ## Sustainable development - Sustainability
 
 It is becoming increasingly evident that disciplinary approaches and disciplinary specializations are often insufficient to understand and address the complex challenges and **wicked problems** of the 21st century. **Sustainable development issues**, in particular, extend across various scientific and thematic fields. This necessitates collaboration between disparate disciplines and other stakeholders. Thus, **interdisciplinarity** and **transdisciplinarity** are considered to be essential research approaches in the field of **sustainability science**.
 
-![Mode 1 and Mode 2 science [@gibbons_etal_2010; @martens_2006].](images/mode1mode2.png){#fig-modes-science}
+| **Mode-1 science** | **Mode-2 science**           |
+|:-------------------|:-----------------------------|
+| Academic           | Academic and social          |
+| Mono-disciplinary  | Trans- and interdisciplinary |
+| Technocratic       | Participative                |
+| Certain            | Uncertain                    |
+| Predictive         | Exploratory                  |
 
-Sustainability science can be understood as an arena where “contributions from the whole spectrum of the natural sciences, economics, and social sciences” [@martens_2006, p. 38] meet. Sustainability science distinguishes itself from “traditional” sciences, so-called **mode-1 sciences** (see @fig-modes-science), since it follows the normative ideas of sustainability.
+: Mode-1 and Mode-2 science [based on @gibbons_etal_2010; @martens_2006]. {#tbl-modes-science}
+
+Sustainability science can be understood as an arena where “contributions from the whole spectrum of the natural sciences, economics, and social sciences” [@martens_2006, p. 38] meet. Sustainability science distinguishes itself from “traditional” sciences, so-called **mode-1 sciences** (see @tbl-modes-science), since it follows the normative ideas of sustainability.
 
 ::: {.callout-note collapse="true"}
 ### Sustainability Science
@@ -28,7 +42,7 @@ The term **sustainability science** was officially introduced in 2001 at the "Ch
 
 As sustainable development is a normative model, it is important to distinguish between descriptive (**empirical-analytical**) research and prescriptive (**normative**) research. Descriptive statements describe the current state (“is”, e.g., vegetables contain a relatively high proportion of vitamins), while normative statements describe the ideal state (“ought”, e.g., you should eat vegetables). In everyday life, the distinction between “is” and “ought” is often not recognized, but it is crucial for science. Moreover, it is essential to recognize that individuals hold diverse perspectives, which can lead to diverging opinions regarding what is optimal or what sustainability should entail. Consequently, the concepts of "sustainability" or "sustainable development" cannot be regarded as impartial or neutral.
 
-![Distinction between empirical-analytical and normative (Own illustration).](images/emprical-analytical_normative.png){#fig-empirical-analytical_normative}
+![Distinction between empirical-analytical and normative (Own illustration).](images/emprical-analytical_normative.jpg){#fig-empirical-analytical_normative}
 
 ::: {.callout-tip collapse="false"}
 ### Get active - Dilemmas
@@ -41,7 +55,7 @@ Reflect on an issue in your personal/social environment, where different persons
 Because sustainability/sustainable development is per se normative, this can lead to **dilemmas** (which means problems do not have an optimal solution). When looking at wicked problems such as biodiversity loss in agricultural areas there are multiple possible approaches: (1) protecting and promoting rare and extinction-threatened species and therefore reducing food production **or** (2) focusing on species with great abundance, which might be more important to economics and food security but would neglect rare species.\
 Depending on context, background and/or beliefs, some would prefer one approach over the other.
 
-![Sustainable Development as a normative concept (Own illustration).](images/SD_normative.png){#fig-sd-normative}
+![Sustainable Development as a normative concept (Own illustration).](images/SD_normative.jpg){#fig-sd-normative}
 
 **Ethics** offers orientation and decision-making structures in order to find a suitable course of action in situations such as complex dilemmas. Ethics deals with the reflection and evaluation of moral actions and behaviour and is therefore the philosophical study of morals (moral norms, value judgments and institutions). There are numerous ethical approaches, two central ones of normative ethics being "teleological" and "deontological" approaches. **Teleological ethics** evaluates actions based on their goals or purposes, which are considered "good". An example of this is utilitarianism (established by Jeremy Bentham), which judges actions according to how much utility or happiness they produce. **Deontological ethics**, on the other hand, focuses on duties and evaluates actions based on their characteristics rather than their consequences. An example of this is Kant's duty-based ethics (Kantianism), which judges actions according to whether they comply with a moral rule or duty.
 
