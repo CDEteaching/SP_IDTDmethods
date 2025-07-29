@@ -22,7 +22,7 @@ book:
     logo: images/cdelogo_e.png
     tools:
       - icon: file-earmark-pdf
-        href: https://cdeteaching.github.io/SP_IDTDmethods/pdf/SP_IDTD.pdf
+        href: https://github.com/CDEteaching/SP_IDTDmethods/blob/master/pdf/SP_IDTD.pdf
         text: "Course Script (PDF)"
     
   page-footer:
