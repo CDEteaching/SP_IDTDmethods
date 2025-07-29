@@ -22,7 +22,7 @@ The completion of this course is recognized with 1.5 ECTS credits and therefore 
 
 **Procedure**
 
-Complete the online course at your own pace. Once you feel prepared, you can complete the [**online exam**](https://ilias.unibe.ch/goto_ilias3_unibe_tst_3450716.html){target="_blank"} and submit the **mandatory reflection exercise** (see chapter *ID/TD methods and reflection on methods*). You have two attempts for the online exam and the time available per attempt is limited to 30 minutes.
+Complete the online course at your own pace. Once you feel prepared, you can complete the [**online exam**](https://ilias.unibe.ch/goto_ilias3_unibe_tst_3450716.html){target="_blank"} and submit the **mandatory reflection exercise** (see chapter [*ID/TD methods and reflection on methods*](https://cdeteaching.github.io/SP_IDTDmethods/6_methodsReflection.html){target="_blank"}). You have two attempts for the online exam and the time available per attempt is limited to 30 minutes.
 
 Please note that the online exam must be completed **by 30. May 2026 at the latest**.
 
