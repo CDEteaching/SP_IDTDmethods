@@ -16,6 +16,7 @@ book:
   back-to-top-navigation: true
   search: true
   site-url: https://cdeteaching.github.io/SP_IDTDmethods/
+  repo-actions: [issue]
  
   sidebar:
     search: true
@@ -24,7 +25,10 @@ book:
       - icon: file-earmark-pdf
         href: https://github.com/CDEteaching/SP_IDTDmethods/blob/master/pdf/SP_IDTD.pdf
         text: "Course Script (PDF)"
-    
+      - icon: bug
+        href: https://github.com/CDEteaching/SP_IDTDmethods/issues/new
+        text: "Report issue"
+        
   page-footer:
     border: true
     left: |
@@ -55,9 +59,9 @@ format:
     monofont: Fira Code
     highlight-style: arrow
     monobackgroundcolor: "#F7F7F7"
-    theme: 
-    #  - theme.css
-      - theme.scss
+    theme:
+      dark: darkly
+    css: theme.scss
     callout-icon: false
   
   pdf:
