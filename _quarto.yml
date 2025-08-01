@@ -59,9 +59,10 @@ format:
     monofont: Fira Code
     highlight-style: arrow
     monobackgroundcolor: "#F7F7F7"
+    respect-user-color-scheme: true
     theme:
-      dark: darkly
-    css: theme.scss
+      light: [theme.scss]
+      dark: [darkly]
     callout-icon: false
   
   pdf:
