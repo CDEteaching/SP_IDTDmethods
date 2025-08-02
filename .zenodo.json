@@ -1,22 +1,23 @@
 {
-  "title": "Special course on inter- and transdisicplinary methods",
+  "title": "Special Course on Inter- and Transdisciplinary Methods",
   "upload_type": "lesson",
-  "publication_type": "report",
   "keywords": [
     "ID/TD",
     "methods",
-    "SustainabilityTransformations"
+    "Sustainability Transformations"
   ],
   "creators": [
     {
-      "name": "Christoph Bader",
+      "name": "Bader, Christoph",
       "affiliation": "Centre for Development and Environment (CDE), University of Bern",
       "orcid": "0000-0002-8991-353X"
-    } 
+    },
     {
-      "name": "Juri Fitz",
-      "affiliation": "Centre for Development and Environment (CDE), University of Bern",
-      "orcid": ""
-    } 
-  ]
+      "name": "Fitz, Juri",
+      "affiliation": "Centre for Development and Environment (CDE), University of Bern"
+    }
+  ],
+  "description": "A special preparatory course on inter- and transdisciplinary methods for students of the Master in Sustainability Transformations at the University of Bern.",
+  "license": "CC-BY-SA-4.0",
+  "access_right": "open"
 }
