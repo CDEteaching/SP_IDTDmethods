@@ -1,6 +1,5 @@
 ---
 title: "What is ID/TD?"
-format: html
 tbl-cap-location: top
 fig-cap-location: bottom
 ---

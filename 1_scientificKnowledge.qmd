@@ -1,6 +1,5 @@
 ---
 title: "Scientific knowledge and non-scientific knowledge"
-format: html
 tbl-cap-location: top
 fig-cap-location: bottom
 ---
@@ -27,7 +26,7 @@ How can scientific knowledge be differentiated from non-scientific knowledge, su
 Thus, it can be said, that scientific knowledge is the product of a research process, in which scientific methods are applied.
 
 |   | Everyday knowledge | Scientific knowledge |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Formation** | Through experience | Based on scientific methods, i.e., verifiability / falsifiability of studies, transparent result |
 | **Objectivity** | Direct link between knowledge and person (subjectively influenced) | Separation of knowledge and person (intersubjectivity) |
 | **Dissemination / Communication** | Everyday language, routines, publications in newspapers etc. | Scientific language, Publication as textbooks, articles in peer-reviewed academic journals |
