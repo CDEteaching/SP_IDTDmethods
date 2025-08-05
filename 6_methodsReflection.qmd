@@ -1,6 +1,5 @@
 ---
 title: "ID/TD methods and reflection on methods"
-format: html
 tbl-cap-location: top
 fig-cap-location: bottom
 ---

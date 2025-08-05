@@ -1,19 +1,12 @@
 ---
 title: "Transparent referencing of third-party work"
-format: html
 tbl-cap-location: top
 fig-cap-location: bottom
 ---
 
-::::: learning
-::: learning-header
-**Learning Outcome**
-:::
+## Learning outcome {.unnumbered}
 
-::: learning-body
--   Students know how to transparently acknowledge knowledge from third parties in their work, by correctly and coherently using a reference system and a citation style
-:::
-:::::
+-   Students acknowledge in their work transparently knowledge from third parties by correctly and coherently using a reference systems and citation style
 
 ## Introduction
 
@@ -25,33 +18,23 @@ Regardless of which format is chosen, a scientific research procedure is charact
 
 In their introductory work, @zabed_qi_2022 [p.493] give numerous examples of **when a reference is required**:
 
--   When describing or discussing a definition, theory, model, concept, or practice associated with a particular writer
-    -   e.g., “Referencing can be defined as the acknowledgement of the works or ideas of other persons, which have been published formally or are available in the public domain in another way” (Reference).
--   To demonstrate the importance of the work
-    -   e.g., “It has been reported that environmental conditions significantly affect the growth of a crop during field experiment” (Reference).
--   To point out a research gap in the report
-    -   e.g., “In a recent study, it has been pointed out that still there is no scientific data on how the migrant workers can contribute to the social stability of the country” (Reference).
--   To show the vastness of the research work on the specific topic of the writer
-    -   e.g., “Numerous studies have been done over the last several decades to improve technical and technological aspects of energy production” (Reference-1; Reference-2; Reference-3 and so on).
--   To describe the method(s) used in the study
-    -   e.g., “Starch content in the rice flour was determined by the enzymatic method” (Reference).
--   To mention the source of data used in the research/report
-    -   e.g., “Data present in this report on weather conditions during the experiment were obtained from the Ministry of Science and Technology, Malaysia” (Reference).
--   To identify the source of a material or equipment used during an experiment
-    -   e.g., “The constructs used in this study were drawn from recent research” (Reference)
--   To show the similarity of the research outcome(s) to others’ work
-    -   e.g., “In our investigation, it was observed that organizational performance decreased significantly with the decrease in workforce diversity. Similar findings have been reported elsewhere” (Reference).
--   To compare the study results with literature
-    -   e.g., “The blood pressure (BP) was recorded 140/95 in a patient under a stress condition. In an earlier study, BP was reported 145/90 in a patient under the same stress condition” (Reference).
--   To explain the research outcomes logically
-    -   e.g., “It was observed that ethanol concentration reached a plateau after a certain time. This might have happened for the exhaustion of soluble sugars over time” (Reference).
+-   When describing or discussing a definition, theory, model, concept, or practice associated with a particular writer; e.g., “Referencing can be defined as the acknowledgement of the works or ideas of other persons, which have been published formally or are available in the public domain in another way” (Reference).
+-   To demonstrate the importance of the work; e.g., “It has been reported that environmental conditions significantly affect the growth of a crop during field experiment” (Reference).
+-   To point out a research gap in the report; e.g., “In a recent study, it has been pointed out that still there is no scientific data on how the migrant workers can contribute to the social stability of the country” (Reference).
+-   To show the vastness of the research work on the specific topic of the writer; e.g., “Numerous studies have been done over the last several decades to improve technical and technological aspects of energy production” (Reference-1; Reference-2; Reference-3 and so on).
+-   To describe the method(s) used in the study; e.g., “Starch content in the rice flour was determined by the enzymatic method” (Reference).
+-   To mention the source of data used in the research/report; e.g., “Data present in this report on weather conditions during the experiment were obtained from the Ministry of Science and Technology, Malaysia” (Reference).
+-   To identify the source of a material or equipment used during an experiment; e.g., “The constructs used in this study were drawn from recent research” (Reference)
+-   To show the similarity of the research outcome(s) to others’ work; e.g., “In our investigation, it was observed that organizational performance decreased significantly with the decrease in workforce diversity. Similar findings have been reported elsewhere” (Reference).
+-   To compare the study results with literature; e.g., “The blood pressure (BP) was recorded 140/95 in a patient under a stress condition. In an earlier study, BP was reported 145/90 in a patient under the same stress condition” (Reference).
+-   To explain the research outcomes logically; e.g., “It was observed that ethanol concentration reached a plateau after a certain time. This might have happened for the exhaustion of soluble sugars over time” (Reference).
 
-Knowledge that can be assumed as **general knowledge** for the target audience does not have to be referenced. For example: "climate change is a mayor threat to food systems".\
+Knowledge that can be assumed as **general knowledge** for the target audience (e.g., in the introduction) does not have to be referenced. For example: "climate change is a mayor threat to food systems".\
 **Own statements, considerations and conclusions** (unless they refer to earlier, published material) do not have to contain references. They can be made explicitly recognizable as such to the reader with an active choice of words (examples: I / we propose … I / we assume, … I / we conclude …).
 
 ## Reference system and citation styles
 
-The referencing of existing sources, whether in written contributions or oral presentations, is carried out through the systematic application of a **‘reference system’**. Paraphrased passages, direct quotations and other material (e.g. images) taken from third parties (or from your own earlier publications) are identified as such. In the case of protected material, appropriate permission must also be obtained for its use.
+The referencing of existing sources, whether in written contributions or oral presentations, is carried out through the systematic application of a **‘reference system’**. Paraphrased passages, direct quotations and other material (e.g. images) taken from third parties (or from our own earlier publications) are identified as such. In the case of protected material, appropriate permission must also be obtained for its use.
 
 A reference system consists of a style that is consistently applied to the whole product, based on two elements [@zabed_qi_2022]:
 
@@ -98,7 +81,6 @@ Last but not least, a text can become more comprehensible for a non-scientific a
 ## Dive deeper into the topic
 
 -   [Tutorials on the APA style](https://apastyle.apa.org/instructional-aids/tutorials-webinars){target="_blank"}
--   The [University Library of Bern](https://www.ub.unibe.ch/services/courses/reference_management_programs/index_eng.html){target="_blank"} offers support for reference management softwares.
 -   [Quick start guide provided by Zotero](https://www.zotero.org/support/quick_start_guide){target="_blank"}
 -   A bit more thorough guides to Zotero: [https://www.youtube.com/watch?v=tnbwKj6-pD8](https://www.youtube.com/watch?v=tnbwKj6-pD8){target="_blank"} or [https://www.youtube.com/watch?v=JG7Uq_JFDzE](https://www.youtube.com/watch?v=JG7Uq_JFDzE){target="_blank"}
--   [Information on copyright and licences](https://www.snf.ch/media/en/Ta5GhOd5M81J52oQ/Urheberrecht-Verlagsrecht-Lizenzen_Informationsblatt_EN.pdf){target="_blank"}
+-   [Information on copyright and licences](https://oa100.snf.ch/en/context/open-access/copyright-and-licences/){target="_blank"}

@@ -1,6 +1,5 @@
 ---
 title: "Scientific knowledge and non-scientific knowledge"
-format: html
 tbl-cap-location: top
 fig-cap-location: bottom
 ---
